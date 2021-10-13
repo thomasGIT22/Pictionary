@@ -1,0 +1,52 @@
+[
+    {
+        "Name" : "IT",
+        "Score" : 21,
+        "Type" : "Overall"
+    },
+    {
+        "Name" : "FM",
+        "Score" : 16,
+        "Type" : "Overall"
+    },
+    {
+        "Name" : "CSS",
+        "Score" : 6,
+        "Type" : "Overall"
+    },
+    {
+        "Name" : "CS",
+        "Score": 7,
+        "Type" : "Overall"
+    },
+    {
+        "Name" : "LOG",
+        "Score" : 8,
+        "Type" : "Overall"
+    },
+    {
+        "Name" : "IT",
+        "Score" : 21,
+        "Type" : "Weekly"
+    },
+    {
+        "Name" : "FM",
+        "Score" : 16,
+        "Type" : "Weekly"
+    },
+    {
+        "Name" : "CSS",
+        "Score" : 6,
+        "Type" : "Weekly"
+    },
+    {
+        "Name" : "CS",
+        "Score": 7,
+        "Type" : "Weekly"
+    },
+    {
+        "Name" : "LOG",
+        "Score" : 8,
+        "Type" : "Weekly"
+    }
+]

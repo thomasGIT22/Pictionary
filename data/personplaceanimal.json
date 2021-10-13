@@ -1,0 +1,238 @@
+[
+    {
+        "type" : "Place",
+        "word" : "Paris"
+    },
+    {
+        "type" : "Place",
+        "word" : "Beach"
+    },
+    {
+        "type" : "Place",
+        "word" : "Mountains"
+    },
+    {
+        "type" : "Place",
+        "word" : "Hawaii"
+    },
+    {
+        "type" : "Place",
+        "word" : "Mount Rushmore"
+    },
+    {
+        "type" : "Place",
+        "word" : "USA"
+    },
+    {
+        "type" : "Place",
+        "word" : "Hospital"
+    },
+    {
+        "type" : "Place",
+        "word" : "Attic"
+    },
+    {
+        "type" : "Place",
+        "word" : "Japan"
+    },
+    {
+        "type" : "Place",
+        "word" : "Library"
+    },
+    {
+        "type" : "Place",
+        "word" : "Desert"
+    },
+    {
+        "type" : "Place",
+        "word" : "Mars"
+    },
+    {
+        "type" : "Place",
+        "word" : "Washington DC"
+    },
+    {
+        "type" : "Place",
+        "word" : "Las Vegas"
+    },
+    {
+        "type" : "Place",
+        "word" : "Train station"
+    },
+    {
+        "type" : "Place",
+        "word" : "North Pole"
+    },
+    {
+        "type" : "Place",
+        "word" : "Farm"
+    },
+    {
+        "type" : "Place",
+        "word" : "Disney World"
+    },
+    {
+        "type" : "Place",
+        "word" : "Mexico"
+    },
+    {
+        "type" : "Animal",
+        "word" : "Bee"
+    },
+    {
+        "type" : "Animal",
+        "word" : "Pony"
+    },
+    {
+        "type" : "Animal",
+        "word" : "Giraffe"
+    },
+    {
+        "type" : "Animal",
+        "word" : "Koala"
+    },
+    {
+        "type" : "Animal",
+        "word" : "Wasp"
+    },
+    {
+        "type" : "Animal",
+        "word" : "Squirrel"
+    },
+    {
+        "type" : "Animal",
+        "word" : "Scorpion"
+    },
+    {
+        "type" : "Animal",
+        "word" : "Lion"
+    },
+    {
+        "type" : "Animal",
+        "word" : "Salamander"
+    },
+    {
+        "type" : "Animal",
+        "word" : "Dolphin"
+    },
+    {
+        "type" : "Animal",
+        "word" : "Frog"
+    },
+    {
+        "type" : "Animal",
+        "word" : "Panda"
+    },
+    {
+        "type" : "Animal",
+        "word" : "Platypus"
+    },
+    {
+        "type" : "Animal",
+        "word" : "T-rex"
+    },
+    {
+        "type" : "Animal",
+        "word" : "Meerkat"
+    },
+    {
+        "type" : "Animal",
+        "word" : "Eagle"
+    },
+    {
+        "type" : "Animal",
+        "word" : "Seahorse"
+    },
+    {
+        "type" : "Person",
+        "word" : "Mailman"
+    },
+    {
+        "type" : "Person",
+        "word" : "Swimmer"
+    },
+    {
+        "type" : "Person",
+        "word" : "Superman"
+    },
+    {
+        "type" : "Person",
+        "word" : "Justin Beiber"
+    },
+    {
+        "type" : "Person",
+        "word" : "Cowboy"
+    },
+    {
+        "type" : "Person",
+        "word" : "Alexander Hamilton"
+    },
+    {
+        "type" : "Person",
+        "word" : "Robin Hood"
+    },
+    {
+        "type" : "Person",
+        "word" : "Vampire"
+    },
+    {
+        "type" : "Person",
+        "word" : "Pirate"
+    },
+    {
+        "type" : "Person",
+        "word" : "Girl Scout"
+    },
+    {
+        "type" : "Person",
+        "word" : "Pikachu"
+    },
+    {
+        "type" : "Person",
+        "word" : "Spongebob"
+    },
+    {
+        "type" : "Person",
+        "word" : "Baby Yoda"
+    },
+    {
+        "type" : "Person",
+        "word" : "Pilgrim"
+    },
+    {
+        "type" : "Person",
+        "word" : "Cinderella"
+    },
+    {
+        "type" : "Person",
+        "word" : "Baker"
+    },
+    {
+        "type" : "Person",
+        "word" : "Abe Lincoln"
+    },
+    {
+        "type" : "Person",
+        "word" : "Thief"
+    },
+    {
+        "type" : "Person",
+        "word" : "Leprechaun"
+    },
+    {
+        "type" : "Person",
+        "word" : "Harry Potter"
+    },
+    {
+        "type" : "Person",
+        "word" : "Shrek"
+    },
+    {
+        "type" : "Person",
+        "word" : "Yoshi"
+    },
+    {
+        "type" : "Person",
+        "word" : "Queen Elizabeth"
+    }
+]

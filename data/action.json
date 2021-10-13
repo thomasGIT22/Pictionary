@@ -1,0 +1,50 @@
+[
+    {
+        "type" : "Action",
+        "word" : "Skip"
+    },
+    {
+        "type" : "Action",
+        "word" : "Burp"
+    },
+    {
+        "type" : "Action",
+        "word" : "Cook"
+    },
+    {
+        "type" : "Action",
+        "word" : "Scratch"
+    },
+    {
+        "type" : "Action",
+        "word" : "Sleep"
+    },
+    {
+        "type" : "Action",
+        "word" : "Plant"
+    },
+    {
+        "type" : "Action",
+        "word" : "Purchase"
+    },
+    {
+        "type" : "Action",
+        "word" : "Text"
+    },
+    {
+        "type" : "Action",
+        "word" : "Tie"
+    },
+    {
+        "type" : "Action",
+        "word" : "Snore"
+    },
+    {
+        "type" : "Action",
+        "word" : "Catch"
+    },
+    {
+        "type" : "Action",
+        "word" : "Study"
+    }
+]
